@@ -1,0 +1,18 @@
+[
+    {
+      "href": "index.html",
+      "tekst": "HOMEPAGE"
+    },
+    {
+      "href": "characters.html",
+      "tekst": "CHARACTERS"
+    },
+    {
+      "href": "register.html",
+      "tekst": "REGISTER"
+    },
+    {
+      "href": "about.html",
+      "tekst": "ABOUT ME"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+      "href": "dokumentacija.pdf",
+      "tekst": "Documentation"
+    },
+    {
+      "href": "sezona1.html",
+      "tekst": "Serie"
+    },
+    {
+      "href": "root/sitemap.xml",
+      "tekst": "Sitemap"
+    },
+    {
+      "href": "about.html",
+      "tekst": "About me"
+    }
+]

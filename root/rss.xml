@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<language>eng</language>
+<channel>
+
+<item>
+<title>Index</title>
+<link>http://aleksandarjanjic10.eu5.net/Index.html</link>
+<description>Obavestenja o novostima pocetne stranice</description>
+</item>
+
+<item>
+<title>Characters</title>
+<link>http://aleksandarjanjic10.eu5.net/characters.html</link>
+<description>Obavestenja o izmenama likova</description>
+</item>
+
+<item>
+<title>Register</title>
+<link>http://aleksandarjanjic10.eu5.net/register.html</link>
+<description>Obavestenja o registraciji</description>
+</item>
+
+<item>
+<title>About</title>
+<link>http://aleksandarjanjic10.eu5.net/about.html</link>
+<description>Obavestenje o novim informacihjama o autoru sajta</description>
+</item>
+
+</channel>
+</rss>

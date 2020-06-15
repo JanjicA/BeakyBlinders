@@ -1,0 +1,159 @@
+[
+    {
+       "id": 1,
+       "naziv": "Arthur Shelby",
+       "slika": "slike/stomak2.jpg",
+       "sezone": "1, 2, 3, 4, 5",
+	   "epizode" : 24,
+       "godine" : 38,
+       "kategorije" : {
+           "id" : 1,
+           "naziv" : "men"
+       },
+	   "glumi" : "Paul Anderson"
+    },
+	{
+       "id": 2,
+       "naziv": "Thomas Shelby",
+       "slika": "slike/stomak1.png",
+       "sezone": "1, 2, 3, 4, 5",
+	   "epizode" : 24,
+       "godine" : 35,
+       "kategorije" : {
+        "id" : 1,
+        "naziv" : "men"
+        },
+	   "glumi" : "Cillian Murphy"
+    },
+	{
+       "id": 3,
+       "naziv": "John Shelby",
+       "slika": "slike/stomak3.jpg",
+       "sezone": "1, 2, 3, 4",
+	   "epizode" : 21,
+       "godine" : 30,
+       "kategorije" : {
+        "id" : 1,
+        "naziv" : "men"
+        },
+	   "glumi" : "Joe Cole"
+    },
+	{
+       "id": 4,
+       "naziv": "Fin Shelby",
+       "slika": "slike/stomak4.jpg",
+       "sezone": "1, 2, 3, 4, 5",
+	   "epizode" : 11,
+       "godine" : 18,
+       "kategorije" : {
+        "id" : 3,
+        "naziv" : "kids"
+        },
+	   "glumi" : "Harry Kirton "
+    },
+	{
+       "id": 5,
+       "naziv": "Ada Thorne",
+       "slika": "slike/stomak5.jpg",
+       "sezone": "1, 2, 3, 4",
+	   "epizode" : 24,
+       "godine" : 28,
+       "kategorije" : {
+        "id" : 2,
+        "naziv" : "women"
+        },
+	   "glumi" : "Sophie Rundle"
+    },
+	{
+       "id": 6,
+       "naziv": "Grace Shelby",
+       "slika": "slike/stomak6.jpg",
+       "sezone": "1, 2, 3",
+	   "epizode" : 14,
+       "godine" : 30,
+       "kategorije" : {
+        "id" : 2,
+        "naziv" : "women"
+        },
+	   "glumi" : "Annabelle Wallis"
+    },
+	{
+       "id": 7,
+       "naziv": "Polly Gray",
+       "slika": "slike/stomak7.jpg",
+       "sezone": "1, 2, 3, 4, 5",
+	   "epizode" : 24,
+       "godine" : 45,
+       "kategorije" : {
+        "id" : 2,
+        "naziv" : "women"
+        },
+	   "glumi" : "Helen McCrory"
+    },
+	{
+       "id": 8,
+       "naziv": "Lizzie Stark",
+       "slika": "slike/stomak8.png",
+       "sezone": "1, 2, 3, 4, 5",
+	   "epizode" : 9,
+       "godine" : 32,
+       "kategorije" : {
+        "id" : 2,
+        "naziv" : "women"
+        },
+	   "glumi" : "Natasha O'Keeffe"
+    },
+	{
+       "id": 9,
+       "naziv": "Luca Changretta",
+       "slika": "slike/stomak9.jpg",
+       "sezone": "4",
+	   "epizode" : 6,
+       "godine" : 46,
+       "kategorije" : {
+        "id" : 1,
+        "naziv" : "men"
+        },
+	   "glumi" : "Adrien Brody"
+    },
+	{
+       "id": 10,
+       "naziv": "Alfie Solomons",
+       "slika": "slike/stomak10.jpg",
+       "sezone": "2, 3, 4",
+	   "epizode" : 11,
+       "godine" : 36,
+       "kategorije" : {
+        "id" : 1,
+        "naziv" : "men"
+        },
+	   "glumi" : "Tom Hardy"
+    },
+	{
+       "id": 11,
+       "naziv": "Inspector Campbell",
+       "slika": "slike/stomak11.jpg",
+       "sezone": "1, 2",
+	   "epizode" : 16,
+       "godine" : 56,
+       "kategorije" : {
+        "id" : 1,
+        "naziv" : "men"
+        },
+	   "glumi" : "Sam Neill"
+    },
+	{
+       "id": 12,
+       "naziv": "Father Hughes",
+       "slika": "slike/stomak12.jpg",
+       "sezone": "3",
+	   "epizode" : 4,
+       "godine" : 41,
+       "kategorije" : {
+        "id" : 1,
+        "naziv" : "men"
+        },
+	   "glumi" : "Paddy Considine"
+    }
+    
+ ]
